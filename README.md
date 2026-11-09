@@ -64,7 +64,7 @@ LH NULL provides a visual canvas, module library, Inspector, undo/redo, Scope an
 
 - Product page: https://liuhao-art.com/apps/lh-null
 - App Store: https://apps.apple.com/app/id6821305517
-- Liu Hao / 刘昊: https://liuhao-art.com
+- Hao Liu / 刘昊: https://liuhao-art.com
 - GitHub profile: https://github.com/live-a11y
 
 ## Repository Scope
