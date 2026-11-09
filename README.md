@@ -6,7 +6,7 @@
 
 **LH NULL is a modular music creation platform for iPad combining sound synthesis, sequencing, logic, generative structures, and real-time interaction.**
 
-Developed by ** Hao Liu / 刘昊** (also credited as **Liu Hao**).
+Developed by ** Hao Liu / 刘昊**.
 
 - **Official product page:** https://liuhao-art.com/apps/lh-null
 - **App Store:** https://apps.apple.com/app/id6821305517
