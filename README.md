@@ -71,4 +71,4 @@ LH NULL provides a visual canvas, module library, Inspector, undo/redo, Scope an
 
 This repository contains **public product information and media for LH NULL**. The LH NULL application source code is **not published in this repository**.
 
-© Liu Hao. Product names, images, and media are provided here for product documentation and reference.
+© Hao Liu. Product names, images, and media are provided here for product documentation and reference.
